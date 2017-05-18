@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Shiny Adventure
+GenericName=Shiny Adventure Game
+Comment=Proves that we can use Vala and Gtk
+Categories=GTK;Utility;
+Exec=com.github.tazdij.shiny-adventure
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=hello-again
+Keywords=Shiny;Game;Adventure;Scroller;Sidescroller;
