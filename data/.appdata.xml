@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017 Don Duvall <shout@tazdij.com> -->
+<component type="desktop">
+  <id>com.github.tazdij.shiny-adventure.desktop</id>
+  <metadata_license>GPLv3</metadata_license>
+  <name>Shiny Adventure</name>
+  <summary>A game about shiny objects</summary>
+  <description>
+    <p>Run from left to right in a random world picking up shiny objects and avoiding monsters.</p>
+  </description>
+</component>
